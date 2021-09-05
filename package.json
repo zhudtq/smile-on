@@ -1,0 +1,24 @@
+{
+  "name": "smile-on",
+  "version": "1.0.0",
+  "description": "npm package that maeks u smile xD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhudtq/smile-on.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhudtq/smile-on/issues"
+  },
+  "homepage": "https://github.com/zhudtq/smile-on#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.15.4",
+    "@babel/core": "^7.15.5"
+  }
+}
